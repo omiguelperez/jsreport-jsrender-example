@@ -1,0 +1,11 @@
+{
+  "name": "jsrender-example",
+  "version": "0.0.1",
+  "description": "jsrender basic example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Pérez <mr.omiguelperez@gmail.com>",
+  "license": "ISC"
+}
