@@ -1,0 +1,16 @@
+{
+  "people": [
+    {
+      "nombre": "Oscar",
+      "apellidos": "Perez",
+      "edad": 20,
+      "descripcion": "Estudiante de Ingenieria de Sistemas"
+    },
+    {
+      "nombre": "Miguel",
+      "apellidos": "Padilla",
+      "edad": 21,
+      "descripcion": "Estudiante Hacker"
+    }
+  ]
+}

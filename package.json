@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oscar Pérez <mr.omiguelperez@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jsrender": "^0.9.81",
+    "jsreport": "^1.0.9"
+  }
 }
