@@ -12,5 +12,14 @@
     "express": "^4.14.0",
     "jsrender": "^0.9.81",
     "jsreport": "^1.0.9"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omiguelperez/jsreport-jsrender-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omiguelperez/jsreport-jsrender-example/issues"
+  },
+  "homepage": "https://github.com/omiguelperez/jsreport-jsrender-example#readme"
 }
